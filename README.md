@@ -38,8 +38,8 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSan06-github&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSan06-github&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSan06&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSan06&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas">
 </div>
 
 ## 📂 Meus Projetos
