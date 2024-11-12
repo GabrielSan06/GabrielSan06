@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ## 🚀 Sobre Mim
@@ -44,13 +44,13 @@
 
 ## 📂 Meus Projetos
 
-- **[Projeto 1](https://github.com/seu-usuario-github/projeto1)**: Breve descrição sobre o projeto e o que ele faz.
-- **[Projeto 2](https://github.com/seu-usuario-github/projeto2)**: Breve descrição sobre o projeto e o que ele faz.
-- **[Projeto 3](https://github.com/seu-usuario-github/projeto3)**: Breve descrição sobre o projeto e o que ele faz.
+- **[Jogo do Número Secreto](https://github.com/GabrielSan06/numeroSecreto-jogo)**: Jogo de adivinhação de número, criado com HTML, CSS e JavaScript, através de um curso realizado na plataforma da Alura.
+- **[Python Chat](https://github.com/GabrielSan06/pythonChat)**: Chat, criado com Python, através de um curso rápido na Hashtag.
+- **[Clinica Odontológica](https://github.com/GabrielSan06/Clinica-Odontologica)**: Banco de Dados de uma Clínica odontológica criado durante o meu 2º período da graduação.
 
 ## 📫 Contato
 
-- 📧 E-mail: jgabriel.san07@gmail.com
+- 📧 E-mail: joaog.santana2006@gmail.com
 - 💼 LinkedIn: [Gabriel de Santana](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-santana-490889282)
 - 📸 Instagram: [gab.dev_](https://www.instagram.com/gab.dev_?utm_source=qr&igsh=MWl5OGVmcjF2eHdyaw==)
 
